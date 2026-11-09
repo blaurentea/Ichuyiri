@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Node / Web
+web/node_modules/
+web/dist/
+
+# Generated audio stems (keep JSON metadata lightweight if needed)
+web/public/tracks/**/*.wav
+web/public/tracks/**/*.mp3
+web/public/tracks/**/*.ogg
+

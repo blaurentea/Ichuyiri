@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+:root {
+  --paper: #F2F2EE;
+  --sheet: #FFFFFF;
+  --panel: #EAEAE4;
+  --line: #D2D2CA;
+  --line-strong: #111111;
+  --ink: #111111;
+  --muted: #666660;
+  --signal: #E63B19;
+  --ok: #166534;
+}
+
+@layer base {
+  body {
+    background-color: var(--paper);
+    color: var(--ink);
+    font-family: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, sans-serif;
+    font-feature-settings: "tnum" 1;
+  }
+
+  code, pre, .font-mono {
+    font-family: "IBM Plex Mono", ui-monospace, SFMono-Regular, monospace;
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+/* Industrial Linear Fader */
+input[type="range"].fader {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 2px;
+  background: #111111;
+  outline: none;
+  cursor: pointer;
+}
+
+input[type="range"].fader::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 10px;
+  height: 18px;
+  border-radius: 1px;
+  background: #E63B19;
+  border: 1px solid #111111;
+}

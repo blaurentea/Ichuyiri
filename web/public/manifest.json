@@ -1,0 +1,9 @@
+{
+  "name": "Ichuyiri — Estudio de Percusión Sikuri",
+  "short_name": "Ichuyiri",
+  "description": "Partitura viva y escucha de micrófono en tiempo real para Sikuri de varios bombos.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F6F1E7",
+  "theme_color": "#C04D29"
+}

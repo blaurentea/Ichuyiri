@@ -1,0 +1,233 @@
+[
+  {
+    "id": "sikuri-01",
+    "title": "Sikuri Tropa 01",
+    "sourceFile": "WhatsApp Audio 2026-11-07 at 2.43.10 PM.mp4",
+    "duration": 255.51,
+    "bpm": 98.4,
+    "bomboResonanceHz": 131.9,
+    "counts": {
+      "total": 259,
+      "pulso": 80,
+      "acento": 96,
+      "repique": 83
+    },
+    "benchmarkV1": {
+      "matlabV1Hits": 168,
+      "ichuyiriV2Hits": 259,
+      "repiquesRecovered": 83,
+      "acentosClassified": 96
+    },
+    "trackUrl": "/tracks/sikuri-01/track.json"
+  },
+  {
+    "id": "sikuri-02",
+    "title": "Sikuri Tropa 02",
+    "sourceFile": "WhatsApp Audio 2026-11-07 at 2.43.11 PM (1).mpeg",
+    "duration": 210.1,
+    "bpm": 151.0,
+    "bomboResonanceHz": 67.3,
+    "counts": {
+      "total": 446,
+      "pulso": 388,
+      "acento": 55,
+      "repique": 3
+    },
+    "benchmarkV1": {
+      "matlabV1Hits": 555,
+      "ichuyiriV2Hits": 446,
+      "repiquesRecovered": 3,
+      "acentosClassified": 55
+    },
+    "trackUrl": "/tracks/sikuri-02/track.json"
+  },
+  {
+    "id": "sikuri-03",
+    "title": "Sikuri Tropa 03",
+    "sourceFile": "WhatsApp Audio 2026-11-07 at 2.43.11 PM.mp4",
+    "duration": 125.83,
+    "bpm": 138.1,
+    "bomboResonanceHz": 110.4,
+    "counts": {
+      "total": 269,
+      "pulso": 181,
+      "acento": 72,
+      "repique": 16
+    },
+    "benchmarkV1": {
+      "matlabV1Hits": 261,
+      "ichuyiriV2Hits": 269,
+      "repiquesRecovered": 16,
+      "acentosClassified": 72
+    },
+    "trackUrl": "/tracks/sikuri-03/track.json"
+  },
+  {
+    "id": "sikuri-04",
+    "title": "Sikuri Tropa 04",
+    "sourceFile": "WhatsApp Audio 2026-11-07 at 2.43.11 PM.mpeg",
+    "duration": 165.46,
+    "bpm": 144.3,
+    "bomboResonanceHz": 131.9,
+    "counts": {
+      "total": 388,
+      "pulso": 262,
+      "acento": 123,
+      "repique": 3
+    },
+    "benchmarkV1": {
+      "matlabV1Hits": 361,
+      "ichuyiriV2Hits": 388,
+      "repiquesRecovered": 3,
+      "acentosClassified": 123
+    },
+    "trackUrl": "/tracks/sikuri-04/track.json"
+  },
+  {
+    "id": "sikuri-05",
+    "title": "Sikuri Tropa 05",
+    "sourceFile": "WhatsApp Audio 2026-11-07 at 2.43.11 PM.ogg",
+    "duration": 144.58,
+    "bpm": 108.7,
+    "bomboResonanceHz": 131.9,
+    "counts": {
+      "total": 256,
+      "pulso": 185,
+      "acento": 55,
+      "repique": 16
+    },
+    "benchmarkV1": {
+      "matlabV1Hits": 273,
+      "ichuyiriV2Hits": 256,
+      "repiquesRecovered": 16,
+      "acentosClassified": 55
+    },
+    "trackUrl": "/tracks/sikuri-05/track.json"
+  },
+  {
+    "id": "sikuri-06",
+    "title": "Sikuri Tropa 06",
+    "sourceFile": "WhatsApp Audio 2026-11-07 at 2.43.12 PM (1).mpeg",
+    "duration": 208.27,
+    "bpm": 153.0,
+    "bomboResonanceHz": 94.2,
+    "counts": {
+      "total": 481,
+      "pulso": 421,
+      "acento": 50,
+      "repique": 10
+    },
+    "benchmarkV1": {
+      "matlabV1Hits": 477,
+      "ichuyiriV2Hits": 481,
+      "repiquesRecovered": 10,
+      "acentosClassified": 50
+    },
+    "trackUrl": "/tracks/sikuri-06/track.json"
+  },
+  {
+    "id": "sikuri-07",
+    "title": "Sikuri Tropa 07",
+    "sourceFile": "WhatsApp Audio 2026-11-07 at 2.43.12 PM (2).mpeg",
+    "duration": 150.18,
+    "bpm": 152.9,
+    "bomboResonanceHz": 113.0,
+    "counts": {
+      "total": 347,
+      "pulso": 289,
+      "acento": 58,
+      "repique": 0
+    },
+    "benchmarkV1": {
+      "matlabV1Hits": 347,
+      "ichuyiriV2Hits": 347,
+      "repiquesRecovered": 0,
+      "acentosClassified": 58
+    },
+    "trackUrl": "/tracks/sikuri-07/track.json"
+  },
+  {
+    "id": "sikuri-08",
+    "title": "Sikuri Tropa 08",
+    "sourceFile": "WhatsApp Audio 2026-11-07 at 2.43.12 PM.mp4",
+    "duration": 129.62,
+    "bpm": 138.1,
+    "bomboResonanceHz": 110.4,
+    "counts": {
+      "total": 268,
+      "pulso": 181,
+      "acento": 70,
+      "repique": 17
+    },
+    "benchmarkV1": {
+      "matlabV1Hits": 260,
+      "ichuyiriV2Hits": 268,
+      "repiquesRecovered": 17,
+      "acentosClassified": 70
+    },
+    "trackUrl": "/tracks/sikuri-08/track.json"
+  },
+  {
+    "id": "sikuri-09",
+    "title": "Sikuri Tropa 09",
+    "sourceFile": "WhatsApp Audio 2026-11-07 at 2.43.12 PM.mpeg",
+    "duration": 90.05,
+    "bpm": 138.2,
+    "bomboResonanceHz": 129.2,
+    "counts": {
+      "total": 240,
+      "pulso": 112,
+      "acento": 38,
+      "repique": 90
+    },
+    "benchmarkV1": {
+      "matlabV1Hits": 176,
+      "ichuyiriV2Hits": 240,
+      "repiquesRecovered": 90,
+      "acentosClassified": 38
+    },
+    "trackUrl": "/tracks/sikuri-09/track.json"
+  },
+  {
+    "id": "sikuri-10",
+    "title": "Sikuri Tropa 10",
+    "sourceFile": "WhatsApp Audio 2026-11-07 at 2.43.13 PM.mp4",
+    "duration": 131.31,
+    "bpm": 141.6,
+    "bomboResonanceHz": 91.5,
+    "counts": {
+      "total": 279,
+      "pulso": 197,
+      "acento": 79,
+      "repique": 3
+    },
+    "benchmarkV1": {
+      "matlabV1Hits": 287,
+      "ichuyiriV2Hits": 279,
+      "repiquesRecovered": 3,
+      "acentosClassified": 79
+    },
+    "trackUrl": "/tracks/sikuri-10/track.json"
+  },
+  {
+    "id": "sikuri-11",
+    "title": "Sikuri Tropa 11",
+    "sourceFile": "WhatsApp Audio 2026-11-07 at 2.43.13 PM.mpeg",
+    "duration": 193.9,
+    "bpm": 120.3,
+    "bomboResonanceHz": 86.1,
+    "counts": {
+      "total": 361,
+      "pulso": 302,
+      "acento": 25,
+      "repique": 34
+    },
+    "benchmarkV1": {
+      "matlabV1Hits": 355,
+      "ichuyiriV2Hits": 361,
+      "repiquesRecovered": 34,
+      "acentosClassified": 25
+    },
+    "trackUrl": "/tracks/sikuri-11/track.json"
+  }
+]
